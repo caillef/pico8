@@ -1,3 +1,2 @@
-# Pico-8 projects
-
-List of all my projects made with Pico-8
+# pico8
+Pico-8 projects
